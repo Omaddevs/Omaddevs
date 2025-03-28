@@ -42,10 +42,10 @@
 </p>
 
 ---
-
+ 
 ## 🌟 Featured Projects  
-🚀 **[UznovaTv](#)** – A brief description of your project  
-🚀 **[Project Name](#)** – Another project you want to highlight  
+🚀 **[UZNOVATV Movie Bot](https://t.me/uznovatvbot)** – Online cinema bot written with AIogram  
+
 
 
 ---
