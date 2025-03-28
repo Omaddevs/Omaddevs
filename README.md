@@ -44,7 +44,7 @@
 ---
 
 ## 🌟 Featured Projects  
-🚀 **[Project Name](#)** – A brief description of your project  
+🚀 **[UznovaTv](#)** – A brief description of your project  
 🚀 **[Project Name](#)** – Another project you want to highlight  
 
 
