@@ -11,7 +11,7 @@
 ## 🏆 About Me  
 
 - 🖥️ **Python Backend Developer** specializing in **Django & FastAPI**  
-- ⚡ Skilled in **MySQL, PostgreSQL, Redis, Celery, Docker, AWS**  
+- ⚡ Skilled in **MySQL, PostgreSQL, Docker**  
 - 🔥 Passionate about **scalable architectures & performance optimization**  
 - 🚀 Exploring **No-Code Solutions** with **Tilda & WordPress**  
 - 🏆 Actively contributing to **Open Source** projects  
