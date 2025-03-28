@@ -1,60 +1,52 @@
-<!-- 🚀 Hey, I'm Omadbek Egamberdiyev! -->
-<h1 align="center">🚀 Hey, I'm Omadbek Egamberdiyev!</h1>
-<h3 align="center">🔥 Python Backend Developer | API Architect | No-Code Expert</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&color=F7A008&center=true&vCenter=true&width=600&height=50&lines=Backend+Developer;Django+%7C+FastAPI+%7C+MySQL+%7C+Redis;Building+Scalable+and+Secure+Web+Apps" alt="Typing SVG" />
-</p>
+<h1 align="center">👋 Hey, I'm Omadbek Egamberdiyev</h1>
+<h3 align="center">Python Backend Developer | Building Scalable Solutions</h3>
 
 ---
 
-## 🏆 About Me  
+## 🚀 About Me  
 
-- 🖥️ **Python Backend Developer** specializing in **Django & FastAPI**  
-- ⚡ Skilled in **Python, Django, RestFramework, FastAPI, MySQL, PostgreSQL, Docker**  
-- 🔥 Passionate about **scalable architectures & performance optimization**  
-- 🚀 Exploring **No-Code Solutions** with **Tilda & WordPress**  
-- 🏆 Actively contributing to **Open Source** projects  
+- 🐍 Passionate **Python Backend Developer**  
+- ⚡ Working with **Django, FastAPI & Flask**  
+- 🛠 Database experience: **MySQL, PostgreSQL**  
+- 🔧 Familiar with **Git, Docker, Linux**  
+- 🌱 Exploring **No-Code tools (Tilda, WordPress)**  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠 Tech Stack  
 
-### 🚀 Languages & Frameworks  
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### 💾 Databases  
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 🖥️ DevOps & Tools  
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmadbekEgamberdiyev&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmadbekEgamberdiyev&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmadbekEgamberdiyev&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmadbekEgamberdiyev&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects  
-🔗 **[Project Name](#)** – Short description of your project  
-🔗 **[Project Name](#)** – Another cool project you built  
+🚀 **[Project Name](#)** – A brief description of your project  
+🚀 **[Project Name](#)** – Another project you want to highlight  
+
 
 ---
 
