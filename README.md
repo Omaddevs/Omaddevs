@@ -11,7 +11,7 @@
 ## 🏆 About Me  
 
 - 🖥️ **Python Backend Developer** specializing in **Django & FastAPI**  
-- ⚡ Skilled in **MySQL, PostgreSQL, Docker**  
+- ⚡ Skilled in **Python, Django, RestFramework, FastAPI, MySQL, PostgreSQL, Docker**  
 - 🔥 Passionate about **scalable architectures & performance optimization**  
 - 🚀 Exploring **No-Code Solutions** with **Tilda & WordPress**  
 - 🏆 Actively contributing to **Open Source** projects  
@@ -63,7 +63,6 @@
   <a href="https://t.me/softwaredeveloper_uz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.instagram.com/egamberdiyev__omadbek?utm_source=qr&igsh=c3BjMmR4dm02em5j"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.youtube.com/@omaddevs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:omaddevs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
